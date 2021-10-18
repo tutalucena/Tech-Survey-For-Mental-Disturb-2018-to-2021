@@ -8,8 +8,9 @@ was impacted by COVID-19 which has overwhelmingly changed the way we interact in
 that only a pandemic could provide, restricting contact with other people and forcing the mind to adapt to this new scenario where work moved to
 home, and personal life was temporarily confiscated.
 
-**Thanks: OSMI for has disponibilysed the survey data and to be this great organization worried with mental's people health.
-website: https://osmihelp.org/research**
+**Thanks: OSMI for has disponibilysed the survey data and to be this great organization worried with mental's people health.**
+
+**website: https://osmihelp.org/research**
 
 **About the files**
 
